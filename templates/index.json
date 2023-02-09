@@ -144,7 +144,8 @@
       ],
       "custom_css": [
         "div {background-color: #181129; max-width: none;}",
-        "h2 {color: #f26b56;}"
+        "h2 {color: #f26b56;}",
+        ".grid {max-width: 1100px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aura_topimages.jpg",
@@ -192,7 +193,7 @@
         "edad3352-6c44-4bc3-9c66-af26367cafe5"
       ],
       "custom_css": [
-        "div {background-color: #e8e0d1; max-width: none}",
+        "div {background-color: #e8e0d1; max-width: none;}",
         "h2 {color: #483e60;}",
         "p {color: black;}"
       ],
