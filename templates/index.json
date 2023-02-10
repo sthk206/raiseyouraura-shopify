@@ -255,7 +255,9 @@
         "template--17616729702682__59118a7e-a981-49be-8804-b94bf4900c23-167596818868fc3b28-2"
       ],
       "custom_css": [
-        ".multicolumn-card {background-color: #181129;}"
+        ".multicolumn-card {background-color: #181129; padding: 10px 0;}",
+        "h3,p {color: white;}",
+        "a {display: none;}"
       ],
       "settings": {
         "title": "TESTIMONIALS",
@@ -274,34 +276,27 @@
         "padding_bottom": 36
       }
     },
-    "62e006b9-0a32-4a96-977a-361f3cbc9f9a": {
-      "type": "featured-blog",
+    "f327fca8-61d6-4ee6-93cf-24481b5c8f79": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17870186807578__f327fca8-61d6-4ee6-93cf-24481b5c8f79-16760179018cae36a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>LATEST BLOG POST<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17870186807578__f327fca8-61d6-4ee6-93cf-24481b5c8f79-16760179018cae36a0-0"
+      ],
       "settings": {
-        "heading": "Blog posts",
-        "heading_size": "h1",
-        "blog": "news",
-        "post_limit": 3,
-        "columns_desktop": 3,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn": {
@@ -310,8 +305,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/img1.jpg",
+            "title": "Beginner’s Guide To Rolling Up Weed",
+            "text": "<p>CBD gummies are an in-demand delicious treat for all youngsters and sweet lovers. The colorful sour worms or peach rings - these can even make a nostalgic throwback to your youth, but did you know that these edibles can bring you healing benefits?...<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -319,8 +315,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/img2.jpg",
+            "title": "4 Reasons Why You Should Try CBD Gummies Now",
+            "text": "<p>CBD gummies are an in-demand delicious treat for all youngsters and sweet lovers. The colorful sour worms or peach rings - these can even make a nostalgic throwback to your youth, but did you know that these edibles can bring you healing benefits?...<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -328,8 +325,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/img3.jpg",
+            "title": "5 Delightful Ways To Enjoy Your CBD Oil",
+            "text": "<p>Ever thought of other ways to appreciate your CBD oil? Due to the successful CBD market, nowadays it’s not necessary to sit down with dull oils and tinctures that have odd flavors. Many products feature CBD in new and inventive ways...<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -356,6 +354,19 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "6bf6f176-57c3-4b19-b158-45b4a6aaca76": {
+      "type": "contact-form",
+      "custom_css": [
+        "div {background-color: rgba(24, 17, 41, 0.996);}"
+      ],
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "inverse",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -365,8 +376,8 @@
     "88a7db85-28bd-442e-8857-4383554a3e51",
     "264ce12d-634e-4c4c-a389-a917fdc4136a",
     "59118a7e-a981-49be-8804-b94bf4900c23",
-    "62e006b9-0a32-4a96-977a-361f3cbc9f9a",
-    "video",
-    "multicolumn"
+    "f327fca8-61d6-4ee6-93cf-24481b5c8f79",
+    "multicolumn",
+    "6bf6f176-57c3-4b19-b158-45b4a6aaca76"
   ]
 }
