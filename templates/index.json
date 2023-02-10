@@ -259,7 +259,7 @@
       ],
       "settings": {
         "title": "TESTIMONIALS",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
