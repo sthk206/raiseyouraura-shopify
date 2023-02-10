@@ -372,7 +372,8 @@
         "div {background-color: #181129;}",
         "h2 {color: #facbb4; text-align: center;}",
         "input,textarea {background-color: white; color: black;}",
-        "label {color: #5c5c5c;}"
+        "label {color: #5c5c5c;}",
+        "button {width: 100%; background-color: #facbb4; color: #181129;}"
       ],
       "settings": {
         "heading": "Join the Tribe!",
