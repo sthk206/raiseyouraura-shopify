@@ -128,9 +128,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "WELCOME TO OUR STORE",
               "text_alignment": "center",
-              "color_scheme": "background-1",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
