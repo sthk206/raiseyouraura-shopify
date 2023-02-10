@@ -121,7 +121,7 @@
           "type": "heading",
           "settings": {
             "heading": "WHY DELTA 8?",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--17616729702682__88a7db85-28bd-442e-8857-4383554a3e51-1675903889234d2784-1": {
@@ -171,7 +171,7 @@
           "type": "heading",
           "settings": {
             "heading": "WHY AURA?",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "31948b1b-f338-41e6-81fc-db6e00c51501": {
@@ -284,7 +284,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>LATEST BLOG POST<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -377,7 +377,7 @@
       ],
       "settings": {
         "heading": "JOIN THE TRIBE!",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "color_scheme": "inverse",
         "padding_top": 76,
         "padding_bottom": 76
