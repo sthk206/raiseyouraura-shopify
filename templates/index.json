@@ -290,6 +290,9 @@
       "block_order": [
         "template--17870186807578__f327fca8-61d6-4ee6-93cf-24481b5c8f79-16760179018cae36a0-0"
       ],
+      "custom_css": [
+        "div {background-color: #E8E0D1;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -338,6 +341,13 @@
         "column2",
         "column3"
       ],
+      "custom_css": [
+        ".page-width {background-color: #e8e0d1; max-width: none;}",
+        "slider-component {max-width: 1100px; margin: 0 auto;}",
+        ".multicolumn-card {max-width: 300px;}",
+        ".multicolumn-card__image-wrapper {width: 80%; margin: 0 auto;}",
+        ".multicolumn-card__info {\/* background-color: black; *\/}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -358,14 +368,17 @@
     "6bf6f176-57c3-4b19-b158-45b4a6aaca76": {
       "type": "contact-form",
       "custom_css": [
-        "div {background-color: rgba(24, 17, 41, 0.996);}"
+        "div {background-color: #181129;}",
+        "h2 {color: #facbb4;}",
+        "input,textarea {background-color: white; color: black;}",
+        "label {color: #5c5c5c;}"
       ],
       "settings": {
         "heading": "Contact form",
         "heading_size": "h1",
         "color_scheme": "inverse",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     }
   },
