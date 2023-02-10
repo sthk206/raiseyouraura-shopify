@@ -1150,6 +1150,8 @@ summary::-webkit-details-marker {
   }
 }
 
+
+
 @media screen and (max-width: 749px) {
   .grid--peek.slider--mobile {
     margin: 0;
@@ -2956,4 +2958,19 @@ details-disclosure > details {
   .localization-form__select:focus {
     outline: transparent solid 1px;
   }
+}
+
+@media screen and (min-width: 380px) {
+
+  #shopify-section-template--17880369856794__b702de98-ee19-47b2-b421-2b5584bf7a40{
+    display: none;
+  }
+
+}
+@media screen and (max-width: 379px) {
+
+  #shopify-section-template--17880369856794__image_banner{
+    display: none;
+  }
+
 }
