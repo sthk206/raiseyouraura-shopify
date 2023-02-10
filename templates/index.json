@@ -54,6 +54,57 @@
         "show_text_below": false
       }
     },
+    "b702de98-ee19-47b2-b421-2b5584bf7a40": {
+      "type": "image-banner",
+      "blocks": {
+        "6ed153dc-2ff1-4257-90b9-f9c99aeea779": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Raise Your Aura",
+            "heading_size": "h0"
+          }
+        },
+        "9c36bd82-396a-4d2c-b258-98c4fd73b5cb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "24bd0efd-d108-451a-9870-54e92c0142b6": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "6ed153dc-2ff1-4257-90b9-f9c99aeea779",
+        "9c36bd82-396a-4d2c-b258-98c4fd73b5cb",
+        "24bd0efd-d108-451a-9870-54e92c0142b6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mobile_hero_42054027-287b-4e33-bfd0-934b7cda7c4c.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -387,6 +438,7 @@
   },
   "order": [
     "image_banner",
+    "b702de98-ee19-47b2-b421-2b5584bf7a40",
     "rich_text",
     "featured_collection",
     "88a7db85-28bd-442e-8857-4383554a3e51",
