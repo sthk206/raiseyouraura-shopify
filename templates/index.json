@@ -76,7 +76,8 @@
         "text"
       ],
       "custom_css": [
-        "div {margin-top: 20px;}"
+        "div {margin-top: 20px;}",
+        ".rich-text__text {margin: 0;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -90,7 +91,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "PRODUCTS",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
