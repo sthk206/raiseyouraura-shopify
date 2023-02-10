@@ -37,6 +37,9 @@
         "text",
         "button"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aurabhhero_V1_6ec1686f-925f-4235-96e6-f02ff7b07cae.jpg",
         "image_overlay_opacity": 0,
@@ -145,7 +148,7 @@
       "custom_css": [
         "div {background-color: #181129; max-width: none;}",
         "h2 {color: #f26b56;}",
-        ".grid {max-width: 1100px;}"
+        ".grid {max-width: 1100px; margin: 0 auto;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aura_topimages.jpg",
@@ -195,7 +198,8 @@
       "custom_css": [
         "div {background-color: #e8e0d1; max-width: none;}",
         "h2 {color: #483e60;}",
-        "p {color: black;}"
+        "p {color: black;}",
+        ".grid {max-width: 1100px; margin: 0 auto;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aura_bottomimages.jpg",
