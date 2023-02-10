@@ -256,7 +256,8 @@
       ],
       "custom_css": [
         ".multicolumn-card {background-color: #181129; padding: 10px 0;}",
-        "h3,p {color: white;}",
+        "h3 {color: #facbb4; font-size: x-large;}",
+        "p {color: white;}",
         "a {display: none;}"
       ],
       "settings": {
