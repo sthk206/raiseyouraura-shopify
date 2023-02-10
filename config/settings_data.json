@@ -191,6 +191,9 @@
           "footer-1",
           "footer-2"
         ],
+        "custom_css": [
+          ".footer__content-top {display: none;}"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
