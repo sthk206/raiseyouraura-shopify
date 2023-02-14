@@ -69,6 +69,15 @@
             "page": ""
           }
         },
+        "3f11a4b2-1fc2-4146-a93e-b377492e5f41": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Warnings",
+            "icon": "lightning_bolt",
+            "content": "<p>{{ product.metafields.custom.warnings.value }}<\/p>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -87,6 +96,7 @@
         "collapsible-row-0",
         "collapsible-row-3",
         "collapsible-row-1",
+        "3f11a4b2-1fc2-4146-a93e-b377492e5f41",
         "share"
       ],
       "settings": {
