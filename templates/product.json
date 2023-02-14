@@ -44,6 +44,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Materials",
             "icon": "leather",
@@ -60,21 +61,30 @@
             "page": ""
           }
         },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
         "3f11a4b2-1fc2-4146-a93e-b377492e5f41": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Warnings",
             "icon": "lightning_bolt",
             "content": "<p>{{ product.metafields.custom.warnings.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "c3f785bc-395c-4134-848c-c9d16d328dcd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delta 8",
+            "icon": "check_mark",
+            "content": "<p>{{ product.metafields.custom.delta8_farm_bill.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
             "page": ""
           }
         },
@@ -95,8 +105,9 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-3",
-        "collapsible-row-1",
         "3f11a4b2-1fc2-4146-a93e-b377492e5f41",
+        "c3f785bc-395c-4134-848c-c9d16d328dcd",
+        "collapsible-row-1",
         "share"
       ],
       "settings": {
