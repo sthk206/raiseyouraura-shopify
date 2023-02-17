@@ -44,7 +44,7 @@
         "image": "shopify:\/\/shop_images\/Aura_heroshopify2_5559525c-ee6c-43d6-8ffa-a103831fe5ab.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
