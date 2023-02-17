@@ -9,7 +9,8 @@
 }
 
 .article-template__hero-container {
-  max-width: 130rem;
+/*   max-width: 130rem; */
+  max-width: 74rem;
   margin: 0 auto;
 }
 
