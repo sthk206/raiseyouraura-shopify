@@ -110,12 +110,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>SELECTION<\/p>",
+            "heading": "<p>Elevate Your Aura with Our Tribe's Faves!<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Elevate Your Aura with Our Tribe's Faves!<\/p>"
           }
