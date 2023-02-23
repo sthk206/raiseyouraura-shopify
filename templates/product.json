@@ -20,12 +20,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -35,6 +29,12 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "description": {
@@ -99,9 +99,9 @@
         "vendor",
         "title",
         "price",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "variant_picker",
         "description",
         "collapsible-row-0",
         "collapsible-row-3",
