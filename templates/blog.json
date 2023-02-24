@@ -3,7 +3,7 @@
     "53332102-1855-426c-b95c-eb2f7d6b9222": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog posts",
+        "heading": "News",
         "heading_size": "h2",
         "blog": "news",
         "post_limit": 3,
