@@ -3,13 +3,6 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Raise Your Aura",
-            "heading_size": "h0"
-          }
-        },
         "text": {
           "type": "text",
           "disabled": true,
@@ -32,7 +25,6 @@
         }
       },
       "block_order": [
-        "heading",
         "text",
         "button"
       ],
@@ -40,7 +32,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AURA-LANDING-PAGE-HERO-BANNER_5008000c-5f48-4573-89fa-54611efb4c31.webp",
+        "image": "shopify:\/\/shop_images\/aurabghero5.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
